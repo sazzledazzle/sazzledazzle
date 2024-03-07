@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elias
-- 👀 I’m interested in architecture design, knowledge graphs
+- 👀 I’m interested in system/enterprise architecture design, knowledge graphs and sensor fusion
 
 <!---
 sazzledazzle/sazzledazzle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
